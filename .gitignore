@@ -1,0 +1,7 @@
+/target/
+/scratch/
+.DS_Store
+__pycache__/
+/scripts/mermaid/node_modules/
+/scripts/mermaid/bundle.js
+/scripts/mermaid/bundle.js.LEGAL.txt

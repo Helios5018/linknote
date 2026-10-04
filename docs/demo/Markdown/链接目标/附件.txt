@@ -1,0 +1,1 @@
+非 Markdown 文件。从链接打开时应交给系统程序（或 LINKNOTE_OPENER）。
